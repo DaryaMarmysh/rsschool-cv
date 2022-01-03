@@ -10,7 +10,7 @@ vk: @ddd_mmm
 
 ---
 ### About me
-
+Student, currently studying web development and everything related to it. During my studies I did two big projects. 
 ### Skills
 * basic knowledge of HTML
 * basic knowledge of CSS (framework Tailwind CSS)
