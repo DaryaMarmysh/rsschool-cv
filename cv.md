@@ -49,7 +49,7 @@ return(str) ;
 Belarusian State Technological University:
 
 >second year student of the Faculty of Information Technology
-
+---
 ### Languages
 * Russian
 * English (Pre-intermediate)
